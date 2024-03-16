@@ -8,7 +8,7 @@
     "plugin:prettier/recommended"
   ],
   "ignorePatterns": "dist",
-  "parser": "@typescript-eslint/parser",
+  "parser": "@typescript-eslint/parser",  
   "plugins": [
     "react-refresh",
     "prettier",
