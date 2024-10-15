@@ -15,3 +15,4 @@
   Back End: Node.js, Express, Cors, Typescript , MongoDB e Zod.
 </p>
 
+<img src='https://media.licdn.com/dms/image/v2/D4D22AQELaPrD2A_kdg/feedshare-shrink_800/feedshare-shrink_800/0/1711128617460?e=1732147200&v=beta&t=67T3bYVgSTU59Ee42fNQI2Cqq17Yp0EwsSLXC4zX4RM' alt='imagem do projeto'/>
